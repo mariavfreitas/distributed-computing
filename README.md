@@ -6,21 +6,6 @@ Distributed Systems Project 2022/2023
  
 **Group T03**
 
-### Code Identification
-
-In all source files (namely in the *groupId*s of the POMs), replace __GXX__ with your group identifier. The group
-identifier consists of either A or T followed by the group number - always two digits. This change is important for 
-code dependency management, to ensure your code runs using the correct components and not someone else's.
-
-### Team Members
-
-
-| Number | Name            | User                               | Email                          |
-|--------|-----------------|------------------------------------|--------------------------------|
-| 90587  | Ana Rita Santos | <https://github.com/ritapaulino26> | <mailto:ana.rita.paulino.dos.santos@tecnico.ulisboa.pt>   |
-| 96757  | Maria Freitas   | <https://github.com/mariavfreitas> | <mailto:mariavfreitas@tecnico.ulisboa.pt> |
-| 96768  | Teresa Lacerda  | <https://github.com/teresaLacerda> | <mailto:teresa.lacerda@tecnico.ulisboa.pt> |
-
 ## Getting Started
 
 The overall system is made up of several modules. The main server is the _DistLedgerServer_. The clients are the _User_ 
